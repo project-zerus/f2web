@@ -50,7 +50,6 @@ int main(int argc, char** argv) {
   });
 
   t.join();
-  return 0;
 
   return EXIT_SUCCESS;
 }

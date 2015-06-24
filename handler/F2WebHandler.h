@@ -33,6 +33,6 @@ private:
   std::unique_ptr<folly::IOBuf> body_;
 };
 
-} // namespace zerus
+} // namespace handler
 } // namespace f2web
 } // namespace zerus

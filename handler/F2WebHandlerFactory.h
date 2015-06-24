@@ -29,6 +29,6 @@ public:
   }
 };
 
-}
-}
+} // namespace handler
+} // namespace f2web
 } // namespace zerus

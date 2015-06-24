@@ -45,6 +45,6 @@ void F2WebHandler::onError(proxygen::ProxygenError err) noexcept {
   delete this;
 }
 
-} // namespace zerus
+} // namespace handler
 } // namespace f2web
 } // namespace zerus
